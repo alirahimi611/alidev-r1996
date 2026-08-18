@@ -37,7 +37,7 @@ I'm open to **full-time opportunities** and **freelance projects** where clean a
   </tr>
   <tr>
     <td><b>State</b></td>
-    <td>Redux Toolkit, Zustand, Context-Api</td>
+    <td>Redux Toolkit, Zustand</td>
   </tr>
   <tr>
     <td><b>Backend & DB</b></td>
@@ -45,58 +45,12 @@ I'm open to **full-time opportunities** and **freelance projects** where clean a
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td>Git, GitHub, Postman</td>
+    <td>Git, GitHub, Postman, Prisma + Postgresql, better-auth, docker (basic), vercel (deploy)</td>
   </tr>
 </table>
 
 ---
 
-## 📌 Selected Projects
-
-> Real-world projects with business logic, dashboards, and production deployment
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Links</th>
-  </tr>
-
-  <tr>
-    <td><b> Auto Rent</b></td>
-    <td>
-    	portfolio car rental app, ready to real-business (full-stack)
-    </td>
-    <td>
-      <a href="https://github.com/alidev-r1996/auto-rent">Repository</a><br/>
-      <a href="https://autorent-ali.vercel.app/">Live Demo</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b> Cafe Darchin</b></td>
-    <td>
-      Real business Restaurant Website (full-stack)
-    </td>
-    <td>
-      <a href="https://github.com/alidev-r1996/caffee-darchin">Repository</a><br/>
-      <a href="https://cafe-darchin.ir/">Live Demo</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b> SoftB</b></td>
-    <td>
-      Business Application Website, and SEO-friendly pages
-    </td>
-    <td>
-      <a href="https://github.com/alidev-r1996/softb">Repository</a><br/>
-      <a href="https://softb.co/">Live Demo</a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🤝 Open For
 
